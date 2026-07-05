@@ -26,4 +26,4 @@ Dự án này tuân thủ nghiêm ngặt các quy tắc kiến trúc đã đư�
 - [🧪 Hướng dẫn kiểm thử (Testing Guide)](./docs/TESTING_GUIDE.md)
 
 ---
-*Phát triển bởi MoneyFlow Team.*
+*Phát triển bởi Kyro.dev*
