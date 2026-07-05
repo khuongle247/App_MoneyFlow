@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">MoneyFlow</string>
+    <string name="home">Trang chủ</string>
+    <string name="history">Lịch sử</string>
+    <string name="budget_title">Quản lý chi tiêu</string>
+    <string name="stats">Thống kê</string>
+    <string name="settings">Cài đặt</string>
+
+    <string name="hello">Xin chào,</string>
+    <string name="total_assets">Tổng tài sản</string>
+    <string name="actual_assets">Tài sản thực tế của bạn</string>
+    <string name="spent">Đã chi tiêu</string>
+    <string name="total_budget">Tổng ngân sách</string>
+    <string name="allocatable">Có thể chia</string>
+    <string name="remaining">Số dư còn lại</string>
+    <string name="recent_transactions">Giao dịch gần đây</string>
+    <string name="see_all">Xem tất cả</string>
+
+    <string name="add_transaction">Thêm chi tiêu</string>
+    <string name="add_income">Thêm thu nhập</string>
+    <string name="save_transaction">Lưu giao dịch</string>
+    <string name="edit_transaction">Sửa giao dịch</string>
+    <string name="income_amount">Số tiền thu vào</string>
+    <string name="expense_amount">Số tiền chi ra</string>
+    <string name="transaction_content">Nội dung chi tiêu</string>
+    <string name="income_source">Nguồn thu nhập</string>
+    <string name="category_selection">Chọn danh mục chi tiêu</string>
+    <string name="income_classification">Phân loại thu nhập</string>
+    <string name="budget">Ngân sách</string>
+    <string name="total_budget_planned">Tổng chi tiêu dự kiến</string>
+    <string name="remaining_limit">Hạn mức còn lại</string>
+    <string name="budget_list">Danh sách chi tiêu</string>
+    <string name="expected">Dự kiến</string>
+    <string name="spent_label">Đã tiêu</string>
+    <string name="remaining_label">Còn lại</string>
+    <string name="no_budgets">Chưa có danh mục nào</string>
+    <string name="add_budget">Thêm danh mục</string>
+    <string name="save_budget">Lưu danh mục</string>
+
+    <string name="saving_goals">Mục tiêu tiết kiệm</string>
+    <string name="back">Quay lại</string>
+    <string name="add_goal">Thêm mục tiêu</string>
+    <string name="no_goals">Bạn chưa lập mục tiêu nào</string>
+    <string name="new_goal">Mục tiêu mới</string>
+    <string name="edit_goal">Chỉnh sửa mục tiêu</string>
+    <string name="goal_name">Tên mục tiêu</string>
+    <string name="target_amount">Số tiền cần đạt</string>
+    <string name="current_amount">Số tiền đã có</string>
+    <string name="add">Thêm</string>
+    <string name="save_btn">Lưu</string>
+    <string name="cancel_btn">Hủy</string>
+    <string name="completed">Hoàn thành</string>
+    <string name="missing">Còn thiếu</string>
+    <string name="edit">Sửa</string>
+    <string name="delete">Xóa</string>
+    <string name="voice">Giọng nói</string>
+    <string name="expense">Chi tiêu</string>
+    <string name="income">Thu nhập</string>
+    <string name="eating_hint">Ví dụ: Ăn uống...</string>
+
+    <string name="dark_mode">Chế độ tối</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="backup_restore">Sao lưu &amp; phục hồi</string>
+    <string name="app_info">Thông tin ứng dụng</string>
+    <string name="delete_all_data">Xóa tất cả dữ liệu</string>
+    <string name="account_info">Thông tin tài khoản</string>
+    <string name="change_username">Đổi tên người dùng</string>
+    <string name="version">Phiên bản</string>
+    <string name="no_data">Không có dữ liệu</string>
+    <string name="empty">Trống</string>
+    <string name="close">Đóng</string>
+    <string name="cancel">Hủy</string>
+    <string name="save">Lưu</string>
+    <string name="warning">Cảnh báo</string>
+    <string name="delete_confirm">Xác nhận xóa sạch dữ liệu?</string>
+</resources>
